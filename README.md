@@ -11,7 +11,7 @@
 - Sử dụng thư viện Redux, tự cấu trúc thư mục dự án
 - Giao diện như bên dưới
 
-![redux_thitkhotau]()
+![redux_thitkhotau](https://github.com/anhtbok92/ReduxBasicReactNativeTraining/blob/master/img/redux_nauan.PNG)
 
 # Hướng dẫn
 
